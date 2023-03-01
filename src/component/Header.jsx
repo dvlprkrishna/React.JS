@@ -7,7 +7,7 @@ const navigation = [
   { name: 'Employees', href: '/' },
   { name: 'Customers', href: '/customers' },
   { name: 'Dictionary', href: '/dictionary' },
-  { name: 'Definition', href: '/definition' },
+  // { name: 'Definition', href: '/definition' },
   // { name: 'Defination', href: '/defination/:search' },
 ]
 
